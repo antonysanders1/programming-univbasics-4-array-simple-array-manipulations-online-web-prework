@@ -14,8 +14,8 @@ def using_pop(continents)
     deleted_string = @continents.pop
 end
 
-#def pop_with_args(dog_breeds, small_dogs)
-#  @small_dogs = ["Chihuahua", "Shiba Inu"]
-#  dog_breeds.pop
-#  dog_breeds.pop
+def pop_with_args(dog_breeds, small_dogs)
+  @small_dogs = ["Chihuahua", "Shiba Inu"]
+  @dog_breeds.pop
+  @dog_breeds.pop
 #end
