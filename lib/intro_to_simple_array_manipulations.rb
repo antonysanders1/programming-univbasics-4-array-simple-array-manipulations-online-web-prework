@@ -1,3 +1,3 @@
-def usisng_push
+def usisng_push (colors_in_the_rainbow, )
   
 end
