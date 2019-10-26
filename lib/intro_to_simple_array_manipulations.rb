@@ -18,6 +18,6 @@ def pop_with_args(dog_breeds)
   small_dogs = @dog_breeds.pop(2)
 end
 
-def using_shift(@my_favorite_cities)
+def using_shift(my_favorite_cities)
   im_so_over_this_city = @my_favorite_cities.shift
 end
