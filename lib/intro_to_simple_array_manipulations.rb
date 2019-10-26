@@ -4,25 +4,7 @@ end
 
 
 def using_unshift(bouroughs_in_nyc, @new_neighborhood)
-  
+  @updated_array = bouroughs_in_nyc.unshift(@new_neighborhood)
 end
 
 
-def using_pop
-  
-end
-
-
-def pop_with_args
-  
-end
-
-
-def using_shift
-  
-end
-
-
-def using_shift_with_args
-  
-end
