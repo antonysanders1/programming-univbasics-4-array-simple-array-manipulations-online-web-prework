@@ -40,7 +40,7 @@ def using_insert(list_of_programming_languages, another_languge)
 end
 
 
-def using_uniq(haircuts, new_haircuts)
+def using_uniq(haircuts)
   haircuts.uniq
 end
 
